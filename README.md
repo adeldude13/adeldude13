@@ -1,7 +1,4 @@
-just a noob who loves to write spaghetti
-
-buzzwords: [C, Rust, Haskell, Ruby]
-
+i use Arch BTW
 
 socail:
 - [twitter](https://twitter.com/cringeman33)
